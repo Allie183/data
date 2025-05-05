@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "id": "10",
+      "name": "mary",
+      "email": "mary@gmail.com",
+      "password": "a123",
+      "tel": "0912345678",
+      "address": "桃園市中壢區新中北路164號"
+    },
+    {
+      "id": "b2eb",
+      "name": "11111",
+      "email": "2222",
+      "password": "11111"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "pdnumber": "1",
+      "brand": "CANON",
+      "name": "New Canonet 28",
+      "price": "5580",
+      "introduction": "這是一款基於New Canonet QL 17的低價位、大眾化Canonet系列相機。曝光控制方面，採用全自動程序EE代替了同系列相機之前型號採用的快門優先EE。相機採用與快門優先EE聯動的Copal機械程序快門。寬測光範圍從EV 3(1/30秒，f/2.8)到EV 17(1/620秒，f/14.5)。取景器有明亮的邊框線，帶自動視差校正功能。它能顯示與拍攝相關的信息，並內置了雙象迭加測距儀。雖然功能強大，但是相機僅採用入門級的售價。作為一款經久不衰的相機，它的生產持續到1976年。",
+      "reserve": "49",
+      "sensitivity": "-",
+      "focallength": "40mm",
+      "shutter": "1/30-1/250",
+      "size": "F2.8-F22",
+      "distance": "區段對焦",
+      "mm": "116x69x56mm",
+      "weight": "410g",
+      "sort": "1"
+    }
+  ],
+  "order": [
+    {
+      "id": "1",
+      "name": "mary",
+      "tel": "0912345678",
+      "email": "mary@gmail.com",
+      "ship": "7-11",
+      "address": "桃園市中壢區新中北路164號",
+      "pay": "貨到付款",
+      "price": "2280",
+      "content": "備註",
+      "date": "2024-06-18",
+      "status": "已完成"
+    }
+  ]
+}
